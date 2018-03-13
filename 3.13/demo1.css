@@ -1,0 +1,19 @@
+.out{
+    background: #000000;
+    opacity: 0%;
+    overflow: hidden;
+    width:620px;
+    height:400px;
+    position: relative;
+    z-index: 2222;
+}
+
+.pic{
+    transform:scale(1.0);
+    width: 195px;
+    z-index: 1;
+    position: absolute;
+}
+#one :hover{
+    opacity: 0.6
+}
